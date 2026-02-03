@@ -6,5 +6,5 @@
 // - Decrementar `count` e exibir o resultado
 
 let count = 5;
-console.log(--count);
 console.log(++count);
+console.log(--count);

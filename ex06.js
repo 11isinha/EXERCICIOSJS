@@ -18,3 +18,8 @@ console.log(p && q);
 console.log(p || q);
 console.log(!p );
 console.log(!q);
+
+//  O operador AND (&&) retorna true apenas se ambos forem true. 
+// O operador OR (||) retorna true se pelo menos um deles for true. 
+// O operador NOT (!) inverte o valor booleano. 
+//  !false torna-se true. 
